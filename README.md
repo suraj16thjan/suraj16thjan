@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Suraj 👋</h1>
 
-<p align="center">Lead Software Engineer · Backend & DevOps · Kathmandu, Nepal 🇳🇵</p>
+<p align="center">Lead Software Engineer · Backend  · Kathmandu, Nepal 🇳🇵</p>
 
 ---
 
